@@ -61,12 +61,11 @@ UI runs at: `http://localhost:3000`
 - [x] Role-based access (Authorize attributes)
 - [x] Student: view profile, health records, medical events, vaccinations, checkups, notifications
 - [x] Admin: Create other users (via SQL for now)
+- [x] Parent consent management
+- [x] Medication tracking
+- [x] Manager health plan workflows
+- [x] Upload student list via Excel (optional)
 
-### 🔧 In Progress
-- [ ] Parent consent management
-- [ ] Medication tracking
-- [ ] Manager health plan workflows
-- [ ] Upload student list via Excel (optional)
 
 ---
 
@@ -81,15 +80,15 @@ Bearer <your-JWT-token>
 
 ## 🤝 Contributors
 
-- Cường (Backend ASP.NET Core)
-- [Friend's name] (Frontend ReactJS)
+- Bảo (Backend ASP.NET Core)
+- Bảo (Frontend ReactJS)
 
 ---
 
 ## 📬 Contact
 
-📧 Email: `cuongndse181836@fpt.edu.vn`  
-🏫 University: FPT, PRN212 Project
+📧 Email: `lephangiabao9904.1920@gmail.com`  
+🏫 University: FPT, 
 
 ---
 
